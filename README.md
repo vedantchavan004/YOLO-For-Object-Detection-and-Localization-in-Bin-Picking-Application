@@ -8,5 +8,7 @@ hence, modified YOLO is able to detect position and orientation of objects, whic
 
 # Requirements
 Tensorflow 2.0
+
 Keras
+
 OpenCV
