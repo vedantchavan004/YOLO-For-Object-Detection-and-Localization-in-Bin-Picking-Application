@@ -6,3 +6,7 @@ For this project, YOLO was modified to detect and localize the objects in the bi
 The network predicts key point pairs for each object.
 hence, modified YOLO is able to detect position and orientation of objects, which is really helpful for the bin picking application.
 
+# Requirements
+Tensorflow 2.0
+Keras
+OpenCV
