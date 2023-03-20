@@ -12,3 +12,9 @@ Tensorflow 2.0
 Keras
 
 OpenCV
+
+# Predictions
+![](images/Img_00006_detected.bmp)
+![](images/Img_00035_detected.bmp)
+![](images/Img_00044_detected.bmp)
+![](images/Img_00008_detected.bmp)
