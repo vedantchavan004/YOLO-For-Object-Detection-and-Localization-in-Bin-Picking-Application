@@ -18,3 +18,5 @@ OpenCV
 ![](images/Img_00035_detected.bmp)
 ![](images/Img_00044_detected.bmp)
 ![](images/Img_00008_detected.bmp)
+![](images/Img_00032_detected.bmp)
+![](images/Img_00013_detected.bmp)
