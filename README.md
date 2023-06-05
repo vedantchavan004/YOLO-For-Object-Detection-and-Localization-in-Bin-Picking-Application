@@ -12,6 +12,10 @@ Tensorflow 2.0
 Keras
 
 OpenCV
+# Synthetic data
+![](images/img_000001.bmp)
+![](images/img_000002.bmp)
+![](images/img_000004.bmp)
 
 # Predictions
 ![](images/Img_00006_detected.bmp)
