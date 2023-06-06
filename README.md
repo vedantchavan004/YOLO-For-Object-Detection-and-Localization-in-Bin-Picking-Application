@@ -10,6 +10,8 @@ hence, modified YOLO is able to detect position and orientation of objects, whic
 Tensorflow 2.0
 
 Keras
+# Implementation
+![](implementation.jpeg)
 
 OpenCV
 # Synthetic data
